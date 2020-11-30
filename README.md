@@ -49,6 +49,7 @@ and type the following commands
 
 1. <a title="GLFW" href="https://github.com/glfw/glfw"> GLFW </a>
 2. <a title="GLFW" href="https://github.com/nigels-com/glew"> GLEW </a>
+3. <a title="stb" href="https://github.com/nothings/stb"> STB </a>
 
 <br/>
 
