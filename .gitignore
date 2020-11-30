@@ -1,2 +1,6 @@
 # CMake
 build/
+
+#ide
+.vs/
+.vscode/
