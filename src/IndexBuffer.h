@@ -2,11 +2,11 @@
 
 typedef unsigned int uint;
 
-/* Index Buffer Class */
+/* Inder Buffer class */
 class IndexBuffer
 {
 private:
-	uint m_RendererID;  // ?ID for a specific object
+	uint m_RendererID;  //? ID for a specific object
 	uint m_count;
 
 public:
