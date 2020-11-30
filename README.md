@@ -51,6 +51,7 @@ and type the following commands
 2. <a title="GLFW" href="https://github.com/nigels-com/glew"> GLEW </a>
 3. <a title="stb" href="https://github.com/nothings/stb"> STB </a>
 
+
 <br/>
 
     Note: You Need To add the dependencies to the correct include path in the IDE
